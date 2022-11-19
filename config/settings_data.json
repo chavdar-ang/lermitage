@@ -130,10 +130,21 @@
               "color_scheme": "background-1",
               "link": ""
             }
+          },
+          "1409ffa4-4ee6-45d2-b12b-9d99b63d97fc": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Welcome to our store",
+              "text_alignment": "center",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "1409ffa4-4ee6-45d2-b12b-9d99b63d97fc"
         ],
         "settings": {
         }
@@ -142,6 +153,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/lermitage-logo-circle-mobile-inverted.png",
           "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "main-menu",
