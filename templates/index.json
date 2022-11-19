@@ -37,7 +37,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/lermitage-hero-6.png",
+        "image": "shopify:\/\/shop_images\/lermitage-hero-3.jpg",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -93,9 +93,9 @@
         "columns_desktop": 4,
         "full_width": true,
         "show_view_all": true,
-        "view_all_style": "solid",
+        "view_all_style": "outline",
         "enable_desktop_slider": false,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "image_ratio": "portrait",
         "show_secondary_image": true,
         "show_vendor": false,
@@ -113,20 +113,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": "dresses"
+            "collection": "frontpage"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "leather-trench-malena",
+            "second_image": true
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "dresses-1"
           }
         }
       },
@@ -139,15 +139,16 @@
         "heading": "Multimedia collage",
         "heading_size": "h2",
         "desktop_layout": "left",
-        "mobile_layout": "collage",
+        "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -161,6 +162,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
