@@ -5,24 +5,23 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
+            "heading": "Елегантността е единствената мода, която никога не избледнява!",
+            "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Елегантността е единствената мода, която никога не избледнява!",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Вижте колекцията",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -56,7 +55,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>Елегантността е единствената мода, която никога не избледнява!<\/p>",
             "heading_size": "h1"
           }
         },
