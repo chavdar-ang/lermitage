@@ -127,7 +127,7 @@
             "settings": {
               "text": "Безплатна доставка за поръчки над 200 лв.",
               "text_alignment": "center",
-              "color_scheme": "background-1",
+              "color_scheme": "inverse",
               "link": ""
             }
           },
